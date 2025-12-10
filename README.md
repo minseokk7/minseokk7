@@ -46,15 +46,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=minseokk7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="GitHub Stats" height="170"/>
+![minseokk7's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=minseokk7&show_icons=true&theme=tokyonight&hide_border=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minseokk7&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" alt="Top Languages" height="170"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=minseokk7&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=minseokk7&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -63,22 +57,12 @@
 ## 🔥 Featured Projects
 
 | Project | Description | Tech |
-|---|---|---|
+|---------|-------------|------|
 | [**fazzk**](https://github.com/minseokk7/fazzk) | 데스크탑 알림 애플리케이션 | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white) |
 | [**Discord-Logger-Main**](https://github.com/minseokk7/Discord-Logger-Main) | Discord 메시지 로깅 시스템 | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
 | [**Shop-Backend**](https://github.com/minseokk7/Shop-Backend) | 마인크래프트 상점 백엔드 | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
 | [**Server-SimpleCleaner**](https://github.com/minseokk7/Server-SimpleCleaner) | 마인크래프트 서버 정리 플러그인 | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
 | [**Tarkov_korean_patch**](https://github.com/minseokk7/Tarkov_korean_patch) | 타르코프 한글 패치 | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=minseokk7&theme=tokyo-night&hide_border=true&bg_color=1a1b27&line=70a5fd&point=bf91f3&color=38bdae)](https://github.com/minseokk7)
-
-</div>
 
 ---
 
