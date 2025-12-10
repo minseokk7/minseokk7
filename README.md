@@ -62,7 +62,6 @@
 | [**Discord-Logger-Main**](https://github.com/minseokk7/Discord-Logger-Main) | Discord 메시지 로깅 시스템 | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
 | [**Shop-Backend**](https://github.com/minseokk7/Shop-Backend) | 마인크래프트 상점 백엔드 | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
 | [**Server-SimpleCleaner**](https://github.com/minseokk7/Server-SimpleCleaner) | 마인크래프트 서버 정리 플러그인 | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
-| [**Tarkov_korean_patch**](https://github.com/minseokk7/Tarkov_korean_patch) | 타르코프 한글 패치 | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
 
 ---
 
