@@ -21,11 +21,39 @@ Java와 JavaScript를 주로 사용합니다
 ##  GitHub Stats
 
 <div align="center">
-
-[![](https://raw.githubusercontent.com/minseokk7/minseokk7/master/profile-summary-card-output/discord_old_blurple/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/minseokk7/minseokk7/master/profile-summary-card-output/discord_old_blurple/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/minseokk7/minseokk7/master/profile-summary-card-output/discord_old_blurple/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/minseokk7/minseokk7/master/profile-summary-card-output/discord_old_blurple/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/minseokk7/minseokk7/master/profile-summary-card-output/discord_old_blurple/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
+<table>
+<tr>
+<td colspan="2">
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+<img src="https://raw.githubusercontent.com/minseokk7/minseokk7/master/profile-summary-card-output/discord_old_blurple/0-profile-details.svg" width="100%"/>
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+<img src="https://raw.githubusercontent.com/minseokk7/minseokk7/master/profile-summary-card-output/discord_old_blurple/1-repos-per-language.svg" width="100%"/>
+</a>
+</td>
+<td>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+<img src="https://raw.githubusercontent.com/minseokk7/minseokk7/master/profile-summary-card-output/discord_old_blurple/2-most-commit-language.svg" width="100%"/>
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+<img src="https://raw.githubusercontent.com/minseokk7/minseokk7/master/profile-summary-card-output/discord_old_blurple/3-stats.svg" width="100%"/>
+</a>
+</td>
+<td>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+<img src="https://raw.githubusercontent.com/minseokk7/minseokk7/master/profile-summary-card-output/discord_old_blurple/4-productive-time.svg" width="100%"/>
+</a>
+</td>
+</tr>
+</table>
 </div>
 
 ---
