@@ -1,6 +1,6 @@
-<div align="center">
+﻿<div align="center">
 
-# 안녕하세요! 👋 저는 **minseok**입니다
+# 안녕하세요  **minseok**입니다
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminseokk7&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://github.com/minseokk7)
 
@@ -8,17 +8,29 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-```
-🎮 게임 서버 및 데스크탑 애플리케이션 개발을 좋아하는 개발자입니다
-☕ Java와 JavaScript를 주로 사용합니다
-🌱 현재 다양한 오픈소스 프로젝트를 진행 중입니다
-```
+`
+게임 서버 및 데스크탑 애플리케이션 개발을 좋아하는 개발자입니다
+Java와 JavaScript를 주로 사용합니다
+현재 다양한 서비스 프로젝트를 진행 중입니다
+`
 
 ---
 
-## 🛠️ Tech Stack
+##  GitHub Stats
+
+<div align="center">
+
+[![](https://raw.githubusercontent.com/minseokk7/minseokk7/master/profile-summary-card-output/discord_old_blurple/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/minseokk7/minseokk7/master/profile-summary-card-output/discord_old_blurple/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/minseokk7/minseokk7/master/profile-summary-card-output/discord_old_blurple/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/minseokk7/minseokk7/master/profile-summary-card-output/discord_old_blurple/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/minseokk7/minseokk7/master/profile-summary-card-output/discord_old_blurple/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+</div>
+
+---
+
+##  Tech Stack
 
 <div align="center">
 
@@ -42,24 +54,12 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![minseokk7's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=minseokk7&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=minseokk7&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🔥 Featured Projects
+##  Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**fazzk**](https://github.com/minseokk7/fazzk) | 데스크탑 알림 애플리케이션 | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white) |
-| [**Discord-Logger-Main**](https://github.com/minseokk7/Discord-Logger-Main) | Discord 메시지 로깅 시스템 | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
+| [**fazzk**](https://github.com/minseokk7/fazzk) | 디스코드 알림 애플리케이션 | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white) |
+| [**Discord-Logger-Main**](https://github.com/minseokk7/Discord-Logger-Main) | Discord 메시지 로거 시스템 | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
 | [**Shop-Backend**](https://github.com/minseokk7/Shop-Backend) | 마인크래프트 상점 백엔드 | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
 | [**Server-SimpleCleaner**](https://github.com/minseokk7/Server-SimpleCleaner) | 마인크래프트 서버 정리 플러그인 | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
 
@@ -67,7 +67,7 @@
 
 <div align="center">
 
-### 💬 Contact
+###  Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-minseokk7-181717?style=for-the-badge&logo=github)](https://github.com/minseokk7)
 
