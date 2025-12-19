@@ -12,7 +12,7 @@
 
 `
 게임 서버 및 데스크탑 애플리케이션 개발을 좋아하는 개발자입니다
-Java와 JavaScript를 주로 사용합니다
+Java와 Rust를 주로 사용합니다
 현재 다양한 서비스 프로젝트를 진행 중입니다
 `
 
@@ -64,17 +64,18 @@ Java와 JavaScript를 주로 사용합니다
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks & Libraries
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### Tools & Platforms
 ![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -86,7 +87,7 @@ Java와 JavaScript를 주로 사용합니다
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**fazzk**](https://github.com/minseokk7/fazzk) | 디스코드 알림 애플리케이션 | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white) |
+| [**fazzk**](https://github.com/minseokk7/fazzk) | 디스코드 알림 애플리케이션 | ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white) ![Tauri](https://img.shields.io/badge/-Tauri-24C8D8?style=flat&logo=tauri&logoColor=white) |
 | [**Discord-Logger-Main**](https://github.com/minseokk7/Discord-Logger-Main) | Discord 메시지 로거 시스템 | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
 | [**Shop-Backend**](https://github.com/minseokk7/Shop-Backend) | 마인크래프트 상점 백엔드 | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
 | [**Server-SimpleCleaner**](https://github.com/minseokk7/Server-SimpleCleaner) | 마인크래프트 서버 정리 플러그인 | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
