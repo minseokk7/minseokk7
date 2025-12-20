@@ -87,7 +87,7 @@ Java와 Rust를 주로 사용합니다
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**fazzk**](https://github.com/minseokk7/fazzk) | 디스코드 알림 애플리케이션 | ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white) ![Tauri](https://img.shields.io/badge/-Tauri-24C8D8?style=flat&logo=tauri&logoColor=white) |
+| [**fazzk**](https://github.com/minseokk7/fazzk) | 치지직 알림 애플리케이션 | ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white) ![Tauri](https://img.shields.io/badge/-Tauri-24C8D8?style=flat&logo=tauri&logoColor=white) |
 | [**Discord-Logger-Main**](https://github.com/minseokk7/Discord-Logger-Main) | Discord 메시지 로거 시스템 | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
 | [**Shop-Backend**](https://github.com/minseokk7/Shop-Backend) | 마인크래프트 상점 백엔드 | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
 | [**Server-SimpleCleaner**](https://github.com/minseokk7/Server-SimpleCleaner) | 마인크래프트 서버 정리 플러그인 | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
